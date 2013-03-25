@@ -1,0 +1,13 @@
+{
+  "name": "regex-highlight-styling",
+  "repo": "nathan7/regex-highlight-styling",
+  "description": "styling for regex-highlight",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "regex-highlight-styling.css"
+  ]
+}
